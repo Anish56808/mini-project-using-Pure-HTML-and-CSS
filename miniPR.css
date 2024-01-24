@@ -116,6 +116,9 @@
     box-shadow: 2px 2px 5px black;
     background-color: bisque;
 }
+.card:hover{
+    box-shadow: 3px 3px 8px bisque;
+}
 .card img,h3,p{
     border-radius: 30px;
     width: 100%; 
