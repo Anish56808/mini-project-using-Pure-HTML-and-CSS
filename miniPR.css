@@ -126,8 +126,11 @@
     width: 100%; 
       background-color: bisque;
 }
+.card img:hover{
+    box-shadow:3px 3px 8px black;
+}
+
 h1{
-    
     padding-left: 40%;
    }
 @media(max-width:450px){
